@@ -187,7 +187,7 @@ The callback function that fires when the feed is built. It must be a function()
 
 <h2>Examples</h2>
 <p>
-We gonna experient with the scipt's capabilties a little bit.
+We gonna experiment with the scipt's capabilties a little bit.
 </p>
 
 <h3>Location</h3>
